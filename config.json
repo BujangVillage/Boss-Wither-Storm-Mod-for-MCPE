@@ -28,39 +28,227 @@
       "applovin_native": "unitid",
       
       "ironsource_banner": "1215fccad",
-      "ironsource_inter": "1215fccad"
+      "ironsource_inter": "1215fccad",
+
+      "fan_banner":"YOUR_PLACEMENT_ID",
+      "fan_inter":"YOUR_PLACEMENT_ID",
+      "fan_native":"YOUR_PLACEMENT_ID"
       
       
     }
   ],
   "Addon": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "Black Demon Wither Skeleton Titan! (Black Demon WitherZilla Update)",
+        "role": "Do you want another Titan Monster? Now I bring you a new titan namely 'Black Demon Wither Skeleton Titan', or it can also be called Leader of the Wither Skeletons.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/19/lima.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/19/bdwstaddon.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/19/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/19/dua.png"
+    },
+    {
+        "name": "Biomobs Addon (1.16+)",
+        "role": "This addon introduces 38 new mobs to fight in your survival worlds, this includes new variants for spiders, zombies, skeletons, Pillagers, and creeper! You can find them in Jungles, Frozen Biomes, Mushroom Islands, the End Dimension, and the Nether! Most of them even give harmful potion effects as well, so be careful!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/21/lima.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/21/Biomobs.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/21/enam.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/21/empat.png"
+    },
+    {
+        "name": "Wolf Armor, Bars, Storage and Slot To Eat",
+        "role": "You've complained about the delicate nature of wolves. This add-on has the option of craft enchantable armors to protect your wolves and the ability to store items in he. I hope u like.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/23/enam.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/23/WolfArmorStorageBars2Juaneitor.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/23/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/23/dua.png"
+    },
+    {
+        "name": "Boomerangs Add-on (1.14+)",
+        "role": "This add-on adds a new weapon in the game, a boomerang! There are other add-ons about this subject but this is my version. There are two types of boomerangs, a normal one and a piercing one. You can have fun with these new weapons just by throwing them around.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/24/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/24/Boomerangs.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/24/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/24/satu.png"
+    },
+    {
+        "name": "Nether Mobs Spawn (+1.16)",
+        "role": "This addon integrates new ways to find the mobs of the 'nether fortress' and decreases the spawn of ghast in the Nether, makin 'they can only spawn in the soul sand valley biome.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/25/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/25/Nether-mobs-spawn_1605914257.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/25/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/25/satu.png"
+    },
+    {
+        "name": "Withers",
+        "role": "This is a addon with more at the fav Minecraft boss The wither but I have made it in four versions each strong and one of them is inspired by another Minecraft game I’ll give you a hint mc sm if you know then nice and make sure to go to my new discord at: https://discord.gg/45NAJ8YTYW Ok so this is a beta version so tell me the glitches I already know that the wither storm can’t fly and I’m sorry it seems that some how it’s too heavy to fly but anyways time for The bosses/mobs",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/28/tiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/28/Withers-addon_1611902135613_1611905254.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/28/dua.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/28/empat.png"
+    },
+    {
+        "name": "Summoning Talismans",
+        "role": "This addon adds Summoning Talismans that Summons mobs to fight for you right now there are only 6 mob types that can be summoned (more coming in the future) yey",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/29/lima.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/29/summoning_talisman2.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/29/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/29/dua.png"
+    },
+    {
+        "name": "Hardercore",
+        "role": "Hardercore changes vanilla entity AI to challenge players. These AI changes can be increases to health, speed, projectiles, or new behaviors entirely. To reward players for surviving Hardercore, chests contain better equipment, mobs drop better loot, and most experience rewards are increased.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/30/tiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/30/Hardercore-1.3_1613555730.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/30/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/30/lima.png"
+    },
+    {
+        "name": "WITHER DRAGON",
+        "role": "WITHER DRAGON it's a ender dragon but it turns into wither then we called it wither dragon another Strong boss his not like normal wither boss his stronger than wither you can beat him if you are strong enough!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/2/tiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/2/WITHERDRAGON.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/2/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/2/dua.png"
+    },
+    {
+        "name": "WITHER STORM...",
+        "role": "Yes! Wither storm! Your dream comes true! I bring you this addon come in and see it!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/1/enam.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/1/SW-Wither-StormV2new.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/1/dua.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/1/empat.png"
+    },
+    {
+        "name": "Wither Patrols",
+        "role": "Have you ever wanted a little more fun, danger, or maybe even action to Minecraft? If so, then this pack will help. Wither patrols allows the wither to spawn in the overworld automatically and wreak havoc, but don't worry, for your protection, we added Armored Villagers! These villagers use bows to attack any monster in sight, they can even defeat the wither. Just don't hit one, or else the Iron Golem and the Villager will attack you!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/3/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/3/Wither_Patrols_1593553427.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/3/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/3/dua.png"
+    },
+    {
+        "name": "More Wither Addon",
+        "role": "This addon adds mor ewither to Minecraft. You can only summon the withers though. All different wither drop the Nether star item. The different withers differs in damage from one another.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/4/enam.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/4/More Wither Addon _1585929669810.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/4/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/4/dua.png"
+    },
+    {
+        "name": "Wither Rose Addon",
+        "role": "This add-on adds Java's Wither Rose that will eventually be in an upcoming updating for Minecraft: Bedrock Edition. Wither Roses are roses that give off the Wither effect when you walk into them. This add-on functions similarly to that of Java, except for a few differences and issues.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/5/satu.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/5/wither_rose.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/5/dua.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/5/dua.jpg"
+    },
+    {
+        "name": "Baby Wither Skeletons [Addon]",
+        "role": "Imagine adventuring out in the nether and you suddenly encounter Wither Skeletons, But not just that!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/9/tiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/9/babyWitherSkeletons.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/9/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/9/dua.png"
+    },
+    {
+        "name": "Wither Skeleton Knight Addon",
+        "role": "In a recent update, we received the Piglin Brute, which is a very powerful version of the Piglin that guards the treasures inside Bastions and isn't afraid of anything. But what if there was also a more powerful wither skeleton?",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/10/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/10/Wither-Skeleton-Knight-Addon.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/10/dua.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/10/dua.png"
+    },
+    {
+        "name": "Wither Storm Add-on",
+        "role": "The Wither Storm Add-on turns the wither boss into a large and frightening boss known in Minecraft Story Mode as the Wither Storm. It's like 20 times larger than the wither boss and also much more powerful. It's the ultimate challenge for anyone considering themselves a good fighter and want to find out how far their skills can take them. If you have the guts to challenge it let us know in the comments if you survived!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/11/lima.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/11/Wither Storm Purple Add-on v3_0.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/11/enam.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/11/empat.jpg"
+    },
+    {
+        "name": "Wither Storm Addon (Killeable) V3",
+        "role": "Hello everyone here i bring you a complement of the wither storm of the game minecraft story mode Original creator Of This Wither Storm With functionality of being able to die is JualetYT (ElparceJuan) THE ORIGINAL CREATOR WITHOUT THE CAPACITY TO DIE IS 鸥吃鱼 this addon adds to the storm wither and new scenes how the death of the storm wither (after killing the storm wither, his body will come out on the ground after a minute he will get up and",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/15/enam.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/15/Wither Storm AddOn V3 KILLEABLE.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/15/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/15/dua.png"
+    },
+    {
+        "name": "Strongest Wither Addon (最強ウィザーアドオン) ",
+        "role": "[First Post] This add-on changes the Wither attack and more. I am Japanese so my English is not perfect. Therefore, there may be a part that is difficult to understand. Please note.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/17/tiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/17/wither_1604471654.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/17/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/17/lima.png"
+    },
+    {
+        "name": "The Death Doomsday Wither Skeleton Titan Add-On",
+        "role": "Yes, the Titan with the giant trident, has a wave of portals behind it, its size like Titan, the unfathomable forces, ruler of all the univers. there's the death doomsday skeleton of Titan. It's time to see how powerful he is.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/18/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/18/TheDeathWsTitan.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/18/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/18/dua.png"
     }
   ],
   "Map": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "You vs Wither Boss [Minigame]",
+        "role": "Are you ready for a new challenge? In this map you will have to kill the wither boss without dying in all the battle you be able to do it?",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/14/tiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/14/You vs Wither Boss.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/14/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/14/dua.png"
+    },
+    {
+        "name": "PPTG ULTRA WITHER",
+        "role": "Bring up to four friends to battle an extremely powerful updated version of the wither. This fight has quite a few surprises, such as what lies in the lake... Enjoy the fighting.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/6/lima.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/6/3PP4TG f_ 5ULTRA WITHER.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/6/lima.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/6/dua.png"
+    },
+    {
+        "name": "Wither Skeleton Morph",
+        "role": "This map is a map using commands to create a wither skeleton morph with special abilities, unlike actual wither skeleton mobs, you have completely different abilities to them.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/8/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/8/Wither Skelly Morph.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/8/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/8/satu.png"
     }
   ],
   "Texture": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "Easy Potions Full Release",
+        "role": "A brand new pack..... Which help you to find POTIONS Faster..... By adding effect icons on Potion bottles  It basically uses 32x Texture of Potion bottle. And I ported potion effect icons from a game directory :)",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/22/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/22/easy_potion_V1_test_3.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/22/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/22/dua.png"
+    },
+    {
+        "name": "Better Flowers (Nether Update!)",
+        "role": "Have you ever thought that the flowers in Minecraft needed a bit of improving? Did you ever feel that their should be more? Well this texture pack can help you with that! It makes most of the flowers and mushrooms have more in each block, so its more useful for building! It also adds flowers that resemble the double tall flowers!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/26/enam.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/26/BetterFlowersV2.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/26/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/26/dua.png"
+    },
+    {
+        "name": "Tameable Minecraft Wither Boss",
+        "role": "Wither is one of the most powerful mobs in Minecraft, in fact sometimes it is unstoppable. But what if you can pet it? What if the strongest mob boss in Minecraft is your pet? The Answer is, now it is Possible! you can tame this monster and become extra powerful",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/12/tiga.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/12/Tamable Wither Addon - Hard Version.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/12/satu.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/12/dua.jpeg"
+    },
+    {
+        "name": "Wither Sword & Ender Dragon Sword",
+        "role": "Have you ever wanted to have the power to shoot Wither skulls? or Ender Dragon fireball? Have you ever wanted to kill a wither using wither skulls? or a dragon using a Dragon fireball? Or to kill your friends using the power of the Wither or the Endre Dragon?",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Wither/16/lima.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/16/Wither Sword & Ender Dragon Sword BP.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/16/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/16/dua.png"
     }
   ],
   "Skins": [
